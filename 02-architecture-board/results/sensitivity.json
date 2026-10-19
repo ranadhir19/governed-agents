@@ -1,0 +1,37 @@
+{
+  "1": {
+    "software": 7.003,
+    "cloud": 7.572,
+    "ai_ml": 7.705,
+    "data": 7.235,
+    "agentic": 6.854
+  },
+  "2": {
+    "software": 6.912,
+    "cloud": 7.503,
+    "ai_ml": 7.673,
+    "data": 7.179,
+    "agentic": 6.85
+  },
+  "3": {
+    "software": 6.829,
+    "cloud": 7.44,
+    "ai_ml": 7.643,
+    "data": 7.127,
+    "agentic": 6.858
+  },
+  "4": {
+    "software": 6.863,
+    "cloud": 7.382,
+    "ai_ml": 7.616,
+    "data": 7.08,
+    "agentic": 6.865
+  },
+  "5": {
+    "software": 6.906,
+    "cloud": 7.328,
+    "ai_ml": 7.591,
+    "data": 7.037,
+    "agentic": 6.872
+  }
+}
