@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "governed-agents"
+version = "0.1.0"
+description = "General-purpose governed agent operations: improvement loops, architecture boards, expert councils, worker twins, runtime sentinels, design registries"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = ["numpy", "scipy", "matplotlib"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

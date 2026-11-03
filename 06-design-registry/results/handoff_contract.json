@@ -1,0 +1,55 @@
+{
+  "capability_routes": {
+    "consume_contract_offline": [
+      "none"
+    ],
+    "diff_contract_versions": [
+      "none"
+    ],
+    "extract_design_variables": [
+      "api",
+      "mcp"
+    ],
+    "list_components": [
+      "api",
+      "mcp"
+    ],
+    "list_frames": [
+      "api",
+      "mcp"
+    ],
+    "push_review_annotations": [
+      "api"
+    ],
+    "read_style_tokens": [
+      "api",
+      "mcp",
+      "none"
+    ],
+    "subscribe_to_design_changes": [
+      "api",
+      "mcp"
+    ]
+  },
+  "contract_version": "1.0",
+  "design_adapter": "figma",
+  "design_location": "https://www.figma.com/file/QwErTy0987",
+  "environment": "production",
+  "frames": [
+    "login",
+    "dashboard",
+    "review-queue"
+  ],
+  "notes": "Exported without a live design-tool route; consumable offline.",
+  "project": "twin-config-prod",
+  "project_type": "twin-configuration",
+  "sourced_via_route": "none",
+  "tokens": {
+    "color.primary": "#1b4fd8",
+    "spacing.base": "8px"
+  },
+  "variables": [
+    "color.primary",
+    "spacing.base"
+  ]
+}

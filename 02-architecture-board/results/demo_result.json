@@ -1,0 +1,43 @@
+{
+  "blueprint": {
+    "software": "Event-driven architecture",
+    "cloud": "Fully managed platform services",
+    "ai_ml": "Real-time inference endpoint",
+    "data": "Change-data-capture streaming pipeline",
+    "agentic": "Router to specialist agents"
+  },
+  "top_fits": {
+    "software": 6.912,
+    "cloud": 7.503,
+    "ai_ml": 7.673,
+    "data": 7.179,
+    "agentic": 6.85
+  },
+  "critic_iterations": 2,
+  "findings": [],
+  "policy": [
+    [
+      "pii-redaction",
+      false
+    ],
+    [
+      "agent-tool-governance",
+      false
+    ],
+    [
+      "env-isolation",
+      true
+    ],
+    [
+      "tamper-evident-audit",
+      true
+    ],
+    [
+      "approved-egress",
+      false
+    ]
+  ],
+  "missing_info": [
+    "team_size"
+  ]
+}
